@@ -23,7 +23,7 @@ const Test = () => {
             {item}
           </motion.li>
         ))}
-      </motion.ul>
+      </motion.ul> 
     </div>
   );
 };

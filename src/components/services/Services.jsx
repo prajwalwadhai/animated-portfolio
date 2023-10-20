@@ -52,7 +52,7 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Business.
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>Learning Insites...</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -60,53 +60,41 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Languages</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            My experience with C, C++, and Java has honed my programming skills. C taught me memory management, C++ introduced me to object-oriented design, and Java emphasized portability and code readability. These languages have enriched my software development expertise significantly.
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>DSA</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Studying data structures and algorithms has illuminated the art of efficient problem-solving. I've grasped the power of selecting the right data structure and algorithm for a task, optimizing code, and enhancing the performance of software. These fundamental concepts are the cornerstone of sound programming.
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>DBMS</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Exploring database management systems has revealed the crucial role of structured data in modern applications. I've acquired skills in data organization, retrieval, and optimization, recognizing that well-designed databases are the backbone of robust information systems. Mastering these systems is key to creating efficient and scalable software solutions.
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>ReactJs</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+           My journey with React.js has unveiled the power of declarative, component-based user interfaces. I've harnessed the ability to build interactive, responsive web applications with ease, and React's virtual DOM has reshaped my understanding of efficient UI rendering. This library is a game-changer for modern web development.
           </p>
-          <button>Go</button>
+          {/* <button>Go</button> */}
         </motion.div>
       </motion.div>
     </motion.div>

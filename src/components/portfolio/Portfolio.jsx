@@ -48,7 +48,8 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <button>See Demo</button>
+            {/* <a href="https://sentry.io/answers/"> <button>See Demo</button> </a> */}
+            {/* <button>See Demo</button> */}
           </motion.div>
         </div>
       </div>

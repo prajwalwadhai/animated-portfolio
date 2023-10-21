@@ -22,11 +22,11 @@ const Navbar = () => {
           <a href="https://github.com/prajwalwadhai" target="_blank">
             <img src="/github.png" alt="!" />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.instagram.com/prajwal_wadhai_/?igshid=NzZlODBkYWE4Ng%3D%3D" target="_blank">
             <img src="/instagram.png" alt="!" />
           </a>
-          <a href="#" target="_blank">
-            <img src="/dribbble.png" alt="!" />
+          <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+            <img src="/mail.png" alt="!" />
           </a>
         </div>
       </div>

@@ -5,27 +5,27 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "React Commerce",
+    title: "NewsLetter App",
     img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Creating a dynamic news website with ReactJS, Bootstrap, HTML, CSS, JavaScript, and API integration. Stay informed with a sleek, responsive platform offering the latest updates and personalized news experiences.",
   },
   {
     id: 2,
-    title: "Next.js Blog",
+    title: "Text counter",
     img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Building a ReactJS text counter application that tallies words and characters in a sentence. It offers convenient text transformation options, including uppercase, lowercase, clear, and copy functionality for text manipulation.",
   },
   {
     id: 3,
-    title: "Vanilla JS App",
+    title: "Algolizer",
     img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Immerse yourself in the world of algorithms with this ReactJS visualization. Witness intricate computational processes through dynamic and interactive animations, enhancing your algorithmic understanding.",
   },
   {
     id: 4,
-    title: "Music App",
+    title: "Portfolio Website",
     img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Crafting a captivating animated portfolio website, where creativity meets technology. Showcase your work with style and flair through dynamic animations that leave a lasting digital impression.",
   },
 ];
 
